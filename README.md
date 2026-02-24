@@ -35,6 +35,6 @@ A simple and interactive **browser‑based Voice AI Assistant** built using **HT
 https://voiceaiassistance.netlify.app/
 
 ***
-## logo 
-<img width="500" height="500" alt="Designer (2)" src="https://github.com/user-attachments/assets/6e9e08ee-86e2-42ab-8216-b749cdf5b7db" />
+## 🌐 logo 
+<img width="400" height="400" alt="Designer (2)" src="https://github.com/user-attachments/assets/6e9e08ee-86e2-42ab-8216-b749cdf5b7db" />
 
