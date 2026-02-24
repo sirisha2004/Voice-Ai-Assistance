@@ -32,11 +32,6 @@ A simple and interactive **browser‑based Voice AI Assistant** built using **HT
     script.js    - Voice recognition and command handling
 
 ***
-
-## 🔮 Future Improvements
-
-*   ➕ Add more voice commands
-*   ☀️ Weather & news integrations
-*   🧠 Improved NLP for better command understanding
-*   🎚️ Wake‑word activation (e.g., “Hey Assistant”)
+## logo 
+<img width="1024" height="1024" alt="Designer (2)" src="https://github.com/user-attachments/assets/6e9e08ee-86e2-42ab-8216-b749cdf5b7db" />
 
