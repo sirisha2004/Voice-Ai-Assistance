@@ -31,7 +31,7 @@ A simple and interactive **browser‑based Voice AI Assistant** built using **HT
     style.css    - Styling and animations
     script.js    - Voice recognition and command handling
 
-## project live link
+## 💻 Project live link
 https://voiceaiassistance.netlify.app/
 
 ***
